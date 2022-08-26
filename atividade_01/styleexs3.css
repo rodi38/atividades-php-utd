@@ -1,0 +1,14 @@
+.container {
+    width: 100%;
+}
+
+
+.resultado table thead tr th{
+    
+    margin-right: 10px;
+    
+}
+
+span {
+    color: red;
+}
